@@ -1,0 +1,17 @@
+/* A little bit of spacing for the recipe */
+body {
+  margin: 8vh 8vw;
+  background-color: #fac090;
+}
+img{
+  height: 100px;
+  width: 180px;
+}
+h1,h2{
+  font-family: Arial;
+  color: #bf524f;
+}
+li{
+  font-family: 'Open Sans', sans-serif;
+  font-size: "large";
+}
